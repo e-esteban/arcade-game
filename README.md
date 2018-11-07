@@ -1,5 +1,5 @@
 # FrontEnd-Nanodegree-Arcade-Game
-=================================
+
 This game is built from the starter code provided by Udacity FEND Nanodegree program. This is similar to the Arcade Game Frogger.
 
 # Game Overview

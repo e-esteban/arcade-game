@@ -14,7 +14,7 @@ This game is built from the starter code provided by Udacity FEND Nanodegree pro
 
 
 # Credits / References
-Arcade Game Walkthrough Part 1 to 6 by [Matthew Cranford] https://matthewcranford.com/arcade-game-walkthrough-part-1-starter-code-breakdown/
+Arcade Game Walkthrough Part 1 to 6 by [Matthew Cranford] https://matthewcranford.com/arcade-game-walkthrough-part-1-starter-code-breakdown/  
 Video tutorial from [@Rodrick-FEND] https://zoom.us/recording/play/aulotDlzKFegQFIJTaTzKgWvNkVsYtlwO454vL1UPE1Cm6lOUBQCtfVurPOIAGAS?startTime=1529542978000
 
 # Built with

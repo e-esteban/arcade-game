@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Effective JavaScript: Frogger</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>Classic Game Arcade</h1>
+  <div class="container">
+    <span id="lifeOfPlayer">
+      <img class="plife" src="images/char-boy.png" alt="boy" width="60" height = "80">
+      <sup id="playerLife">5</sup>&nbsp&nbsp&nbsp
+      <img class="glife" src="images/char-princess-girl.png" alt="princess" width="60" height = "80" border="red">
+      <sup id="girlCount">4</sup>&nbsp&nbsp&nbsp
+      <img src="images/timer.png" alt="timer" width="60" height = "80" border="red">
+      <sup id="timer" >30</sup>
+    </span>
+  </div>
+  <div class="welcomeModal">
+    <div class="modalOpenWin">
+      <p class="modalText"><strong class="modalTxt">Instructions: </strong>Please use the keyboard arrow keys to move the player.</p>
+      <p><strong class="modalTxt">Goal:</strong> Rescue <mark>four Princesses</mark> from water and bring them in the dry, green grass without colliding with the enemy before the time expires!</p>
+      <button id="startGame"> Start the Game!</button>
+    </div>
+  </div>
+  <div id="modalEnd" class="modalEndgame">
+    <div class="modalEndgameContents">
+      <p class="modalText"></p>
+      <button id="rBtn">Restart Game</button>
+    </div>
+  </div>
+  <script src="js/resources.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/engine.js"></script>
+</body>
+</html>
